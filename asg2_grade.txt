@@ -1,3 +1,0 @@
-GRADER: Eugene
-GRADE: 18/20
-COMMENTS: Your decryption doesn't work. The given do_decrypt function handles converting int to string; that's why your decrypt output is just a bunch of garbage bytes.
